@@ -2,20 +2,21 @@
 A minimum spring mvc project.
 
 ## Overview
-It's a minimum project of Spring MVC by **not using** Spring Boot and Spring initializr. Though it will help you to understand the structure of Spring MVC simply.
+It's a minimum project of Spring MVC by not using Spring Boot and Spring Initializr, 
+but it will help you to understand the structure of Spring MVC simply.
 
 ## What tools to use.
 - Maven (* also JDK)
 
 ## How to build.
 ```sh
-$ cd PathToThisREADME.md
+$ cd Path_to_this_README.md
 $ mvn install
 ```
 
 ## How to run.
 ```sh
-$ cd PathToThisREADME.md
+$ cd Path_to_this_README.md
 $ mvn jetty:run
 ```
 - check if it can access.  
