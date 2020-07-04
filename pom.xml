@@ -5,8 +5,8 @@
     <groupId>org.examproject</groupId>
     <artifactId>minimum-spring-mvc</artifactId>
     <packaging>war</packaging>
-    <version>1.0.0</version>
-    <name>minimum-spring-mvc</name>
+    <version>1.0.1</version>
+    <name>webapp</name>
 
     <properties>
         <spring.version>5.2.6.RELEASE</spring.version>

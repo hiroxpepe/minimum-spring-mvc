@@ -40,7 +40,7 @@ public class HelloController {
     // public methods
 
     @RequestMapping(
-        value="/hello.html",
+        value={"/", "/index.html"},
         method=RequestMethod.GET
     )
     public String doGet(ModelMap model) {
@@ -49,7 +49,7 @@ public class HelloController {
     }
 
     @RequestMapping(
-        value="/hello.html",
+        value={"/", "/index.html"},
         method=RequestMethod.POST
     )
     public String doPost(
